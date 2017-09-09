@@ -44,7 +44,6 @@ int calculadora2(float* resultado, float num1, float num2, char operacion)
         default:
             retorno=-2;
 
-
     }
 
     return retorno;

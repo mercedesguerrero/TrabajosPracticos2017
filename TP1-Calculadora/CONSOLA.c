@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "CONSOLA.h"
 
 int tomaNumero(char msg[], float *numeroIngresado, int minimo, int maximo)
 {

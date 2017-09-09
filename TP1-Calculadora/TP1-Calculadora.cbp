@@ -35,6 +35,9 @@
 			<Option compilerVar="CC" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="CALCULADORA.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="CONSOLA.c">
 			<Option compilerVar="CC" />
 			<Option target="&lt;{~None~}&gt;" />

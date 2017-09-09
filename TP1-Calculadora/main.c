@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 #include "CALCULADORA.h"
 #include "CONSOLA.h"
 
@@ -23,8 +24,6 @@ int main()
     printf("\nLa resta es: %.2f",rResta);
     printf("\nLa multiplicacion es %.2f", rMulti);
 
-
-
-
+    return 0;
 
 }

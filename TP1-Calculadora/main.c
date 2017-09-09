@@ -7,7 +7,7 @@ int main()
 {
     float rSuma,rResta,rMulti,rDivision,y,x;
 
-    tomaNumero("Ingrese edad : \n", &x, 0, 100);
+    tomaNumero("Ingrese el primer número : \n", &x, 0, 100);
     printf("Ingrese el segundo numero : \n");
     scanf("%f",&y);
 

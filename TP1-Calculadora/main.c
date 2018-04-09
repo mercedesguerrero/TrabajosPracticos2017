@@ -2,7 +2,9 @@
 #include <stdlib.h>
 
 #include "CALCULADORA.h"
-#include "CONSOLA.h"
+#include "Funciones.h"
+
+/**< Esto es una prueba */
 
 int main()
 {
